@@ -1,6 +1,7 @@
 # **BEAR: BGP Event Analysis and Reporting**  
 
 **BEAR** is a framework for generating comprehensive reports on **BGP anomaly events** using **large language models (LLMs)**. This repository contains the implementation of **BEAR**, including support for different LLMs and handling scenarios with **limited data availability**. Also, this repository includes implentation of **Synthetic BGP Anomaly Event Data Generation**.
+**Note**: This is only an anonymous repo for double-blind paper review.
 
 ## **Table of Contents**  
 - [Installation](#installation)  
@@ -74,5 +75,5 @@ The main difference between run **BEAR** on full data and limited data scenario 
 To use a different **LLM**, modify the **`LLM_Module.py`** file. Update the model API, parameters, or fine-tuning instructions as needed to integrate a new LLM.  
 
 ## **License**  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
+Not under any license since this is just for double-blind paper review
 
